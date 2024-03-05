@@ -24,8 +24,8 @@ export function App() {
         />
       </section>
 
-      <GoAPageBlock width="904px">
-        <Outlet />
+      <GoAPageBlock width="100%">
+        {/* Add content here */}
       </GoAPageBlock>
 
       <section slot="footer">
